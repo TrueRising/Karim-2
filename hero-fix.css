@@ -1,0 +1,3 @@
+.hero-media{background:#0c1830}
+.hero-image{display:block;width:100%;height:100%;object-fit:cover;object-position:center top}
+.hero-photo-badge{backdrop-filter:blur(10px)}
